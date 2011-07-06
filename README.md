@@ -18,8 +18,8 @@ Contributing
 Credits
 -------
 - Octocat extracted from: https://github.com/blog/775-octocat-wallpapers-for-all
+- setfileicon binary by Damien Bobillot: http://www.cocoabuilder.com/archive/xcode/250445-custom-icon-for-bundle.html#250519
 - Original Photoshop template: http://forums.macrumors.com/showthread.php?t=392360
-- setfileicon binary by: http://davidchambersdesign.com/customizing-file-and-folder-icons-in-mac-os-x/
 
 *****
 Brought to you by [koeniglich.ch](http://koeniglich.ch "Patrick is koeniglich")
