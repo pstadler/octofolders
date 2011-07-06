@@ -13,7 +13,7 @@ Contributing
 ------------
 - Use them, spread them, love them!
 - Make them better: Feel free to clone and push back into the main repository.
-- If you're the developer of GitHub for Mac: Build them right into the App.
+- **If you're a developer of GitHub for Mac: Please build them right into the app!**
 
 Credits
 -------
