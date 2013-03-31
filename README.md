@@ -1,7 +1,7 @@
 Octofolders
 ===========
 
-The missing folder icons for _GitHub for Mac_.
+The missing GitHub folder icons for Mac OS X.
 
 ![Octofolders preview](https://github.com/pstadler/octofolders/raw/master/preview.png "Octofolders preview")
 
@@ -13,7 +13,6 @@ Contributing
 ------------
 - Use them, spread them, love them!
 - Make them better: Feel free to clone and push back into the main repository.
-- **If you're a developer of GitHub for Mac: Please build them right into the app!**
 
 Credits
 -------
@@ -24,6 +23,3 @@ Credits
 License
 -------
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
-
-*****
-Brought to you by [koeniglich.ch](http://koeniglich.ch "Patrick is koeniglich")
